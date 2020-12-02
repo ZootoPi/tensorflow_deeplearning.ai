@@ -13,13 +13,25 @@
 ### Week 1
 
 - Quiz:
-    <!-- <p align="center">
-        <img src="./img/w1_quizz.png" width="80%" height="50%" title="Challenges, terminology, methods and technology" >
-    </p> -->
+    <p align="center">
+        <img src="./img/w1_quizz1a.png" width="80%" height="50%" title="Week 1 Quiz" >
+    </p>
 
-- [Environment Setup]().
+    <p align="center">
+        <img src="./img/w1_quizz1b.png" width="80%" height="50%" title="Week 1 Quiz" >
+    </p>
 
 
+    <p align="center">
+        <img src="./img/w1_quizz1c.png" width="80%" height="50%" title="Week 1 Quiz" >
+    </p>
+- [Programming assignment]().
+
+### Week 2
+
+### Week 3
+
+### Week 4
 
 ## Contributors:
 
