@@ -59,6 +59,21 @@
 
 ### Week 4
 
+- Quiz:
+    <p align="center">
+        <img src="./img/w4_quizz1a.png" width="80%" height="50%" title="Week 4 Quiz" >
+    </p>
+
+    <p align="center">
+        <img src="./img/w4_quizz1b.png" width="80%" height="50%" title="Week 4 Quiz" >
+    </p>
+
+    <p align="center">
+        <img src="./img/w4_quizz1c.png" width="80%" height="50%" title="Week 4 Quiz" >
+    </p>
+
+- [Programming assignment]().
+
 ## Contributors:
 
 - 🐮 [@honghanhh](https://github.com/honghanhh)

@@ -12,6 +12,9 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 
 - [Course](https://www.coursera.org/learn/introduction-tensorflow)
 - [Solution]()
+<p align="center">
+    <img src="./Badges/Intro-to-TF.png" width="70%" height="50%" title="Badge 1" >
+</p>
 
 ### 2. Convolutional Neural Networks in TensorFlow
 
