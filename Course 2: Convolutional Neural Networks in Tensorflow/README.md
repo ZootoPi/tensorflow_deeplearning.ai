@@ -55,6 +55,10 @@
         <img src="./img/w3_quizz1b.png" width="80%" height="50%" title="Week 3 Quiz" >
     </p>
 
+    <p align="center">
+        <img src="./img/w3_quizz1c.png" width="80%" height="50%" title="Week 3 Quiz" >
+    </p>
+
 - [Programming assignment]().
 
 ### Week 4
