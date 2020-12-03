@@ -14,13 +14,18 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 - [Solution](https://github.com/GafBof/tensorflow_deeplearning.ai/tree/main/Course%201:%20Introduction%20to%20Tensorflow)
 
 <p align="center">
-    <img src="./Badges/Intro-to-TF.png" width="70%" height="50%" title="Badge 1" >
+    <img src="./Badges/Intro-to-TF.png" width="80%" height="50%" title="Badge 1" >
 </p>
 
 ### 2. Convolutional Neural Networks in TensorFlow
 
 - [Course](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 - [Solution](https://github.com/GafBof/tensorflow_deeplearning.ai/tree/main/Course%202:%20Convolutional%20Neural%20Networks%20in%20Tensorflow)
+
+
+<p align="center">
+    <img src="./Badges/CNN-in-TF.png" width="80%" height="50%" title="Badge 2" >
+</p>
 
 ### 3. Natural Language Processing in TensorFlow
 
