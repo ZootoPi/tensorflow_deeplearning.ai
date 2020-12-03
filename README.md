@@ -32,6 +32,10 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 - [Course](https://www.coursera.org/learn/natural-language-processing-tensorflow)
 - [Solution](https://github.com/GafBof/tensorflow_deeplearning.ai/tree/main/Course%203:%20Natural%20Language%20Processing%20in%20Tensorflow)
 
+<p align="center">
+    <img src="./Badges/NLP-in-TF.png" width="80%" height="50%" title="Badge 3" >
+</p>
+
 ### 4. Sequences, Time Series and Prediction
 
 - [Course](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)

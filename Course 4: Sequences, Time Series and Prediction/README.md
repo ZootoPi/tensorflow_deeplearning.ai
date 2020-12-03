@@ -1,7 +1,7 @@
-# Course 3: Natural Language Processing in Tensorflow
+# Course 4: Sequences, Time Series and Prediction
 
-**_Course Link_**: [Natural Language Processing in Tensorflow
-](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+**_Course Link_**: [Sequences, Time Series and Prediction
+](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 ## Achievement goal:
 
@@ -50,10 +50,6 @@
 
     <p align="center">
         <img src="./img/w3_quizz1b.png" width="80%" height="50%" title="Week 3 Quiz" >
-    </p>
-
-    <p align="center">
-        <img src="./img/w3_quizz1c.png" width="80%" height="50%" title="Week 3 Quiz" >
     </p>
 
 ### Week 4
