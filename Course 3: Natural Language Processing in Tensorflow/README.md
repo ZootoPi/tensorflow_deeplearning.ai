@@ -6,7 +6,7 @@
 ## Achievement goal:
 
 <p align="center">
-    <img src="../Badges/NLP-to-TF.png" width="80%" height="50%" title="Badge 3" >
+    <img src="../Badges/NLP-in-TF.png" width="80%" height="50%" title="Badge 3" >
 </p>
 
 ## Solution
