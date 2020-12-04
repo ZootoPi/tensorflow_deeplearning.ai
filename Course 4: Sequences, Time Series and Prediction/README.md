@@ -91,6 +91,11 @@
         <img src="./img/w4_quizz1c.png" width="80%" height="50%" title="Week 4 Quiz" >
     </p>
 
+    <p align="center">
+        <img src="./img/w4_quizz1d.png" width="80%" height="50%" title="Week 4 Quiz" >
+    </p>
+
+
 ## Contributors:
 
 - 🐮 [@honghanhh](https://github.com/honghanhh)
