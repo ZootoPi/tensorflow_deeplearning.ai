@@ -41,7 +41,15 @@ This reporatory contains the solutions of every questions/quizes/exercises to ac
 - [Course](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 - [Solution](https://github.com/GafBof/tensorflow_deeplearning.ai/tree/main/Course%204:%20Sequences%2C%20Time%20Series%2C%20and%20Prediction)
 
+<p align="center">
+    <img src="./Badges/Timeseries-in-TF.png" width="80%" height="50%" title="Badge 4" >
+</p>
+
 ## Achievement goal:
+
+<p align="center">
+    <img src="./Badges/TF-dev.png" width="80%" height="50%" title="Badge 4" >
+</p>
 
 ## Contributors:
 
